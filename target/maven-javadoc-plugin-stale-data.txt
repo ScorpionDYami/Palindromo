@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/Kevin/Documents/NetBeansProjects/Palindromo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Kevin/Documents/NetBeansProjects/Palindromo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Palindromo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Palindromo 1.0-SNAPSHOT API'
+mx.itson.palindromo.business
+mx.itson.palindromo.ui
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\src\main\java = 1725739988289
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\allclasses-index.html = 1725862342954
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\allpackages-index.html = 1725862342960
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\copy.svg = 1725862343020
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\element-list = 1725862342819
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\help-doc.html = 1725862343004
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\index-all.html = 1725862342985
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\index.html = 1725862342935
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\link.svg = 1725862343020
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\member-search-index.js = 1725862342970
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\module-search-index.js = 1725862342961
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\overview-summary.html = 1725862342998
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\overview-tree.html = 1725862342929
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\package-search-index.js = 1725862342965
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\script.js = 1725862343004
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\search-page.js = 1725862343020
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\search.html = 1725862342993
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\search.js = 1725862343020
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\serialized-form.html = 1725862342889
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\stylesheet.css = 1725862343004
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\tag-search-index.js = 1725862342972
+C:\Users\Kevin\Documents\NetBeansProjects\Palindromo\target\site\apidocs\type-search-index.js = 1725862342968

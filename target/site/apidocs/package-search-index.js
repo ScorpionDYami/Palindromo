@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"mx.itson.palindromo.business"},{"l":"mx.itson.palindromo.ui"}];updateSearchResults();
